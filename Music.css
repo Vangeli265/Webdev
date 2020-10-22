@@ -1,0 +1,16 @@
+* {
+	margin:0;
+	padding:0;
+}
+body{
+	font-family: Arial, Hevetica, sana-serif;
+	background-image: url()
+	color: #fff;
+	line-height: 1.6;
+	text-align: left;
+}
+.container {
+	max-width:960px;
+	margin:auto;
+	padding: 0 30px
+}
